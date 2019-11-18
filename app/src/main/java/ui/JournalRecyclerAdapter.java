@@ -20,6 +20,7 @@ import model.Journal;
 
 public class JournalRecyclerAdapter extends RecyclerView.Adapter<JournalRecyclerAdapter.ViewHolder> {
    private Context context;
+   //mammt
    private List<Journal> journalList;
 
     public JournalRecyclerAdapter(Context context, List<Journal> journalList) {
